@@ -1,0 +1,8 @@
+X = Msgbox("Your Pc has downloaded a Trojan, Intiating factory reset" ,48,"WARNING!!!")
+X = Msgbox("u dummy I would never xd",48,"dumbo")
+X = Msgbox("I'm not someone who drinks alcohol at all Meli, but somehow you made me under your influence" ,48,"Melissa <3")
+X = Msgbox("You're one of those people I don't mind dropping everything just to talk to" ,48,"Meli")
+X = Msgbox("You're the dumbest and the smartest person i've ever met, you're caring and hilarious, i like you just the way you are ^-^" ,48,"boobs")
+X = Msgbox("And tho yea we're not close to each other in miles, I feel like we're closer to each other in our heart ^-^" ,48,"i do not know how to code at all")
+X = Msgbox("I know this is corny but even tho i wished you'd be my Xayah to my Rakan, Being your Yasuo to your Ahri, Your Lucian to my Senna, I'm atleast glad to meet someone this important to me ^-^",48,"lets league when ur pc isnt wet from apple cider or watevs xd")
+X = Msgbox("So even just for today, would you like to be my date for Valentines Day <3" ,4+16,"will you be Duo bot lane just for today? <3")
